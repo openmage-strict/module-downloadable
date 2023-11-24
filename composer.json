@@ -1,5 +1,5 @@
 {
-    "name": "openmage-strict/moduledownloadable",
+    "name": "openmage-strict/module-downloadable",
     "description": "Mage_Downloadable",
     "license": "OSL-3.0",
     "type": "magento-module",
