@@ -1,0 +1,9 @@
+src/app/code/core/Mage/Downloadable/                                     app/code/core/Mage/Downloadable/
+src/app/design/adminhtml/default/default/layout/downloadable.xml         app/design/adminhtml/default/default/layout/downloadable.xml
+src/app/design/adminhtml/default/default/template/downloadable/          app/design/adminhtml/default/default/template/downloadable/
+src/app/design/frontend/base/default/layout/downloadable.xml             app/design/frontend/base/default/layout/downloadable.xml
+src/app/design/frontend/base/default/template/downloadable/              app/design/frontend/base/default/template/downloadable/
+src/app/design/frontend/rwd/default/layout/downloadable.xml              app/design/frontend/rwd/default/layout/downloadable.xml
+src/app/design/frontend/rwd/default/template/downloadable/               app/design/frontend/rwd/default/template/downloadable/
+src/app/etc/modules/Mage_Downloadable.xml                                app/etc/modules/Mage_Downloadable.xml
+src/app/locale/en_US/Mage_Downloadable.csv                               app/locale/en_US/Mage_Downloadable.csv
