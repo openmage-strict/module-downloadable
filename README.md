@@ -1,6 +1,6 @@
 # Module `Mage_Downloadable`
 
-An OpenMage core module.
+An [OpenMage][1] core module.
 
 ## Install
 
@@ -8,3 +8,4 @@ An OpenMage core module.
 composer require openmage-strict/module-downloadable
 ```
 
+[1]: https://github.com/OpenMage/magento-lts
